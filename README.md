@@ -27,8 +27,9 @@ APP_KEY=base64:nm7oQ8MAvOY4WxA8xcTAv58wGN3FdfrNmGjtxzOprcE=
 APP_DEBUG=true
 APP_URL=http://httpclientsinauth.test
 
-#API_URL=http://lara10-api-labclinicosinauth.test:9000/api/
-API_URL=http://127.0.0.1:8000/api/
+
+#API_URL=http://lara10-api-labclinicosinauth.test:9000/api/ #<=Se conectara este proyecto si esta #des-comentado
+API_URL=http://127.0.0.1:8000/api/ #<=Esta ruta es a donde se conectara este proyecto
 
 LOG_CHANNEL=stack
 LOG_DEPRECATIONS_CHANNEL=null
